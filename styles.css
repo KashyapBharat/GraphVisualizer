@@ -1,0 +1,96 @@
+p{
+  color:blue;
+}
+.node{
+  width: 7.5%;
+  height: 28px;
+  background-color: rgb(247, 242, 242);
+  outline: 1px solid rgba(144, 175, 175, 0.75);
+  display: -webkit-inline-flex;
+  user-select: none;
+}
+.isWall{
+  width: 7.5%;
+  height: 28px;
+  background-color: black;
+  outline: 1px solid rgba(144, 175, 175, 0.75);
+  display: -webkit-inline-flex;
+  user-select: none;
+}
+.ROW{
+  display:flex;
+}
+
+.butt{
+  padding: 2 2 2 2 ;
+}
+
+.isSrt{
+  width: 7.5%;
+  height: 28px;
+  background-color: green;
+  outline: 1px solid rgba(144, 175, 175, 0.75);
+  display: -webkit-inline-flex;
+  user-select: none;
+}
+
+.isEnd{
+  width: 7.5%;
+  height: 28px;
+  background-color:red;
+  outline: 1px solid rgba(144, 175, 175, 0.75);
+  display: -webkit-inline-flex;
+  user-select: none;
+}
+
+.isVisit{
+  width: 7.5%;
+  height: 28px;
+  background-color: yellow;
+  outline: 1px solid rgba(144, 175, 175, 0.75);
+  display: -webkit-inline-flex;
+  user-select: none;
+}
+
+.isExplore{
+  width: 7.5%;
+  height: 28px;
+  background-color: orange;
+  outline: 1px solid rgba(144, 175, 175, 0.75);
+  display: -webkit-inline-flex;
+  user-select: none;
+}
+
+.Path{
+  width: 7.5%;
+  height: 28px;
+  background-color: blue;
+  outline: 1px solid rgba(144, 175, 175, 0.75);
+  display: -webkit-inline-flex;
+  user-select: none;
+}
+
+header {
+  background-color: gray;
+  margin: auto ;
+  padding: 0 26px;
+}
+
+header h1 {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+
+.clicker{
+  margin:10px 3px;
+}
+
+.Marg{
+  text-align: center;
+}
+
+header h2 {
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
